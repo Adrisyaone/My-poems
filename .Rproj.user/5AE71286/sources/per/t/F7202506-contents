@@ -1,0 +1,26 @@
+project:
+  type: book
+
+book:
+  title: "My literature"
+  author: "बिक्रम अधिकारी"
+  date: "०४|०८|२०२४"
+  cover-image: cover.png
+  chapters:
+    - index.qmd
+    - katha1.qmd
+    - katha2.qmd
+    - katha3.qmd
+    - katha4.qmd
+    - katha5.qmd
+    - katha6.qmd
+    - katha7.qmd
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+

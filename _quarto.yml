@@ -1,0 +1,27 @@
+project:
+  type: book
+
+book:
+  title: "मेरा कथाहरू"
+  author: "बिक्रम अधिकारी"
+  date: "04/05/2024"
+  chapters:
+    - index.qmd
+    - katha1.qmd
+    - katha2.qmd
+    - katha3.qmd
+    - katha4.qmd
+    - katha5.qmd
+    - katha6.qmd
+    - katha7.qmd
+
+page-navigation: true
+
+format:
+  html:
+    theme: cosmo
+  pdf:
+    documentclass: scrreprt
+
+editor: visual
+
