@@ -2,18 +2,21 @@ project:
   type: book
 
 book:
-  title: "मेरा कथाहरू"
+  title: "कविता संग्रह"
   author: "बिक्रम अधिकारी"
   date: "04/05/2024"
   chapters:
     - index.qmd
-    - katha1.qmd
-    - katha2.qmd
-    - katha3.qmd
-    - katha4.qmd
-    - katha5.qmd
-    - katha6.qmd
-    - katha7.qmd
+    - Poem1.qmd
+    - Poem2.qmd
+    - Poem3.qmd
+    - Poem4.qmd
+    - Poem5.qmd
+    - Poem6.qmd
+    - Poem7.qmd
+    - Poem8.qmd
+    - Poem9.qmd
+    - Poem10.qmd
 
 page-navigation: true
 
