@@ -21,10 +21,6 @@ book:
 page-navigation: true
 
 format:
-  html:
-    theme: cosmo
-  pdf:
-    documentclass: scrreprt
+  pdf: default
 
 editor: visual
-
